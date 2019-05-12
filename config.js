@@ -2,8 +2,8 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Justin Ketterman blog',
+  subtitle: '',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -23,16 +23,13 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Justin Ketterman',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Programmer, Teacher & Mentor. Specialist in building scalable data management for healthcare companies. Specialties: C#, .NET Core, Angular, Healthcare, Large Scale, JSON',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'justin@ketterman.tv',
+      github: 'jkketts',
+      rss: '#'
     }
   }
 };
