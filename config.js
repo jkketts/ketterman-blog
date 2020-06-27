@@ -24,8 +24,8 @@ module.exports = {
   ],
   author: {
     name: 'Justin Ketterman',
-    photo: '/photo.jpg',
-    bio: 'Programmer, Teacher & Mentor. Specialist in building scalable data management for healthcare companies. Specialties: C#, .NET Core, Angular, Healthcare, Large Scale, JSON',
+    photo: '/JustinKetterman-2.jpg',
+    bio: 'Experienced Software Engineer | C# / .NET / JavaScript | Full Stack Developer',
     contacts: {
       email: 'justin@ketterman.tv',
       github: 'jkketts',
